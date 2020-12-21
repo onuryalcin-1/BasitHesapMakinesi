@@ -67,7 +67,7 @@ public class BasitHesapMakinesi extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setText("Birinci Sayı : ");
+        jLabel1.setText("Birinci Sayi : ");
 
         jLabel2.setText("İkinci Sayı : ");
 
